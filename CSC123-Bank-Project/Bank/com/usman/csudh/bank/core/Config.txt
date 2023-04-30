@@ -1,0 +1,4 @@
+support.currencies=true
+currencies.source=file
+webservice.url= http://www.usman.cloud/banking/exchange-rate.csv
+currency.file= exchange-rate.csv
